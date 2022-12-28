@@ -1,0 +1,142 @@
+[
+  {
+    "sector": "Manufacturing",
+    "division": [
+      {
+        "division_name": "Construction materials"
+      },
+      {
+        "division_name": "Electronics and Optics"
+      },
+      {
+        "division_name": "Food & Beverage",
+        "subdivision": [
+          "Bakery & confectionery products",
+          "Beverages",
+          "Fish & fish products",
+          "Meat & meat products",
+          "Milk & dairy products",
+          "Other",
+          "Sweets & snack food"
+        ]
+      },
+      {
+        "division_name": "Furniture",
+        "subdivision": [
+          "Bathroom/sauna",
+          "Bedroom",
+          "Children's room",
+          "Kitchen",
+          "Living room",
+          "Office",
+          "Other(furniture)",
+          "Outdoor",
+          "Project furniture"
+        ]
+      },
+      {
+        "division_name": "Machinery",
+        "subdivision": [
+          "Machinery components",
+          "Machinery equipments/tools",
+          "Machinery of machinery",
+          {
+            "name": "Maritime",
+            "criteria": [
+              "Aluminium and steel workboats",
+              "Boat/Yacht building",
+              "Ship repair and conversion"
+            ]
+          },
+          "Metal structures",
+          "Other",
+          "Repair and maintenance service"
+        ]
+      },
+      {
+        "division_name": "Metalworking",
+        "subdivision": [
+          "Construction of metal structures",
+          "Houses and buildings",
+          "Metal products",
+          {
+            "name": "Metal works",
+            "criteria": [
+              "CNC-machining",
+              "Forgings, Fasteners",
+              "Gas, Plasma, Laser cutting",
+              "MIG, TIG, Aluminium welding"
+            ]
+          }
+        ]
+      },
+      {
+        "division_name": "Plastic & Rubber",
+        "subdivision": [
+          "Packaging",
+          "Plastic goods",
+          {
+            "name": "Plastic processing technology",
+            "criteria": [
+              "Blowing",
+              "Moulding",
+              "Plastics welding and processing"
+            ]
+          },
+          "Plastic profiles"
+        ]
+      },
+      {
+        "division_name": "Printing",
+        "subdivision": [
+          "Advertising",
+          "Book/Periodicals printing",
+          "Labelling & packaging printing"
+        ]
+      },
+      {
+        "division_name": "Textile and Clothing",
+        "subdivision": ["Clothing", "Textile"]
+      },
+      {
+        "division_name": "Wood",
+        "subdivision": [
+          "Other(Wood)",
+          "Wooden building materials",
+          "Wooden houses"
+        ]
+      }
+    ]
+  },
+  {
+    "sector": "Other",
+    "division": [
+      { "division_name": "Creative industries" },
+      { "division_name": "Energy technology" },
+      { "division_name": "Environment" }
+    ]
+  },
+  {
+    "sector": "Service",
+    "division": [
+      { "division_name": "Buisness services" },
+      { "division_name": "Engineering" },
+      {
+        "division_name": "Infromation Technology and Telecommunication",
+        "subdivision": [
+          "Data processing, Web portals",
+          "E-marketing",
+          "Programming Consultancy",
+          "Software, Hardware",
+          "Telecommunications"
+        ]
+      },
+      { "division_name": "Tourism" },
+      { "division_name": "Translation services" },
+      {
+        "division_name": "Transport and Logistics",
+        "subdivision": ["Air", "Rail", "Road", "Warter"]
+      }
+    ]
+  }
+]
